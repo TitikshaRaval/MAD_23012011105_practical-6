@@ -1,7 +1,5 @@
 <b>AIM:</b> Create Android Application to demonstrate Frame by frame animation and splash screen to demonstrate twin animation.<br># Android Animation Demo App
 
-A simple Android application demonstrating various animation techniques including frame animations, view animations, and splash screen functionality.
-
 ## About the App
 
 This Android application showcases different types of animations commonly used in mobile app development:
